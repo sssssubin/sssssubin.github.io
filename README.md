@@ -1,2 +1,2 @@
 # sssssubin.github.io
-frontend developer portfolio
+frontend developer
